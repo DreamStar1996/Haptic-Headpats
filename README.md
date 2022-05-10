@@ -7,8 +7,6 @@
 Prefab that will make other players controllers vibrate when giving you headpats. 
 Works with both write defaults on and off.
 
-Changing the contact receiver in the prefab from "On Enter" to "Constant" will make the players hand vibrate for as long as its touching your head.
-
 The package uses a chair to force haptics, which means if timed correctly, players would be able to sit on your head. They will immediately be kicked off in the next frame, but it is something to keep in mind.
 
 [Showcase](https://twitter.com/VRCRedd/status/1524161641096617984?s=20&t=vs8B7EW69h8MZyuGwOPp7Q)
