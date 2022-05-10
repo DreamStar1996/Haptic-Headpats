@@ -9,7 +9,7 @@ Works with both write defaults on and off.
 
 The package uses a chair to force haptics, which means if timed correctly, players would be able to sit on your head. They will immediately be kicked off in the next frame, but it is something to keep in mind.
 
-[Showcase](placeholder)
+[Showcase](https://twitter.com/VRCRedd/status/1524161641096617984?s=20&t=vs8B7EW69h8MZyuGwOPp7Q)
 
 ## Installation
 
