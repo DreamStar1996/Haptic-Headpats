@@ -7,6 +7,8 @@
 Prefab that will make other players controllers vibrate when giving you headpats. 
 Works with both write defaults on and off.
 
+The package uses a chair to force haptics, which means if timed correctly, players would be able to sit on your head. They will immediately be kicked off in the next frame, but it is something to keep in mind.
+
 [Showcase](placeholder)
 
 ## Installation
