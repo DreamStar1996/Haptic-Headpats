@@ -3,6 +3,7 @@
 [![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-informational.svg)](https://vrchat.com/home/download)
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/hfcRed/Haptic-Headpats/blob/main/LICENSE)
 [![Generic badge](https://img.shields.io/github/downloads/hfcRed/Haptic-Headpats/total?label=Downloads)](https://github.com/hfcRed/Haptic-Headpats/releases/latest)
+[![Twitter Follow](https://img.shields.io/twitter/follow/VRCRedd.svg?style=social)](https://twitter.com/VRCRedd)
 
 Prefab that will make other players controllers vibrate when giving you headpats. 
 Works with both write defaults on and off.
